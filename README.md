@@ -1,4 +1,5 @@
 # Bootstrap 3 snippets for Atom
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/arandilopez/bootstrap3-snippets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a BS3 snippets package for Atom. These snippets are in bs3-* style such as [JasonMortonNZ bs3 snippets](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
 
